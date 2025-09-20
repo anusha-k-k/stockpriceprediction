@@ -16,4 +16,7 @@ Python and its Tools like
      pandas – For tabular data structure and manipulation
      matplotlib – For plotting the price trends
 
+Conclusion:
+While this project does not aim to predict actual future prices, it demonstrates how stock price movements can be modeled and visualized using Python. It highlights the importance of understanding randomness, volatility, and the power of simulations in financial analytics
+
 
